@@ -13,7 +13,7 @@ body {
     height: 80vh;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: ;
 }
 
 h1{
@@ -26,4 +26,8 @@ input {
 	width: 150px;
 	height: 30px;
     outline: 0;
+}
+
+#original-currency-amount{
+    padding-left: 100px;
 }
