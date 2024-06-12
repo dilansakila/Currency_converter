@@ -8,23 +8,26 @@ html, body {
 body {
 	text-align: center;
     font-family: sans-serif;
-    background-color: rgb(227, 230, 233);
+    background-color: #00539CFF;
     display: flex;
     height: 80vh;
     align-items: center;
     justify-content: center;
-    flex-direction: ;
+    flex-direction: column;
 }
 
 h1{
-    
+    color: #FFD662FF;
     font-size: 3rem;
     
 }
 
+
 input {
 	width: 150px;
 	height: 30px;
+	font-size: 20px;
+    margin: 5px auto;
     outline: 0;
 }
 
