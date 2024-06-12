@@ -21,3 +21,9 @@ h1{
     font-size: 3rem;
     
 }
+
+input {
+	width: 150px;
+	height: 30px;
+    outline: 0;
+}
