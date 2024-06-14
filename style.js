@@ -31,7 +31,3 @@ function calculate(){
 }
 
 
-document.getElementById("exchange_button").addEventListener("click",()=>{
-    calculate();
-});
-
