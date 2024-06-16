@@ -8,7 +8,8 @@ html, body {
 body {
 	text-align: center;
     font-family: sans-serif;
-    background-color: #00539CFF;
+    background-image: url("photos/img1.webp");
+    background-color: rgb(99, 113, 113);
     display: flex;
     height: 80vh;
     align-items: center;
