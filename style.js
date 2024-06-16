@@ -1,3 +1,4 @@
+
 var input_amount = document.getElementById("original-currency-amount");
 var from_currency = document.getElementById("from_currency");
 var to_currency = document.getElementById("to_currency");
@@ -31,3 +32,6 @@ function calculate(){
 }
 
 
+document.getElementById("exchange_button").addEventListener("click",()=>{
+    calculate();
+});
